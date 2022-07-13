@@ -14,17 +14,17 @@ kodlanmıştır.
 | chalk package | npm install chalk@4.1.2 | 
 
 # Installing - Kurulum
-## Projeyi terminal üzerinden indirmek için
+### Projeyi terminal üzerinden indirmek için
 git clone https://github.com/onrcan34/nodeJS-rehber-uygulamasi.git
-## npm paketini kurmak için
+### npm paketini kurmak için
 npm init -y
-## yargs paketini kurmak için
+### yargs paketini kurmak için
 npm install yargs
-## chalk paketini kurmak için (Lütfen 4.1.2 versiyonunu kurunuz yoksa hata alırsınız.)
+### chalk paketini kurmak için (Lütfen 4.1.2 versiyonunu kurunuz yoksa hata alırsınız.)
 npm install chalk@4.1.2
-## Rehber projesi hakkında bilgi almak için
+### Rehber projesi hakkında bilgi almak için
 node app.js help
-## Rehber projesi ekle komutunu çalıştırmak için
+### Rehber projesi ekle komutunu çalıştırmak için
 node app.js ekle --isim="ahmet" --tel="12512521"
-## Rehber projesi listele komutunu çalıştırmak için
+### Rehber projesi listele komutunu çalıştırmak için
 node app.js listele
