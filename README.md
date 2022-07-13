@@ -16,6 +16,7 @@ kodlanmıştır.
 # Installing - Kurulum
 ### Projeyi terminal üzerinden indirmek için
 git clone https://github.com/onrcan34/nodeJS-rehber-uygulamasi.git
+![image](https://user-images.githubusercontent.com/64845818/178816787-07591610-cf2e-4cd8-b956-05c1fe5266fe.png)
 ### npm paketini kurmak için
 npm init -y
 ### yargs paketini kurmak için
