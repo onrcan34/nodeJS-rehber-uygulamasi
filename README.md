@@ -23,6 +23,8 @@ npm install yargs
 ## chalk paketini kurmak için (Lütfen 4.1.2 versiyonunu kurunuz yoksa hata alırsınız.)
 npm install chalk@4.1.2
 ## Rehber projesi hakkında bilgi almak için
-npm app.js help
+node app.js help
 ## Rehber projesi ekle komutunu çalıştırmak için
-npm app.ks ekle --isim="ahmet" --tel="12512521"
+node app.js ekle --isim="ahmet" --tel="12512521"
+## Rehber projesi listele komutunu çalıştırmak için
+node app.js listele
