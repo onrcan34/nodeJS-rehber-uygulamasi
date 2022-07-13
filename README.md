@@ -6,11 +6,11 @@ Bu proje nodeJS kullanılarak geliştirmiştir. Projemizde npm paketlerinden cha
 kodlanmıştır.
 
 # Prerequisites - Gereklilikler
+```
 node module > https://nodejs.org/en/download/
 npm file > npm init -y
 yargs package > npm install yargs
 chalk package > npm install chalk@4.1.2
+```
 
 # Installing - Kurulum
-
-
