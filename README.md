@@ -9,7 +9,7 @@ kodlanmıştır.
 | Gerekli Paket ve Modüller | İndirme İşlemi |
 | ------ | ------ |
 | node module | https://nodejs.org/en/download/ |
-| npm file | [npm init -y |
+| npm file | npm init -y |
 | yargs package | npm install yargs |
 | chalk package | npm install chalk@4.1.2 | 
 
