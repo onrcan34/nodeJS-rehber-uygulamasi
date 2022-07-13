@@ -52,8 +52,10 @@ node app.js help
 ```
 node app.js ekle --isim="ahmet" --tel="12512521"
 ```
+![image](https://user-images.githubusercontent.com/64845818/178820116-44509c69-ffd2-4ace-a8c6-002f57247649.png)
 ### Rehber projesi listele komutunu çalıştırmak için
 ```
 node app.js listele
 ```
+![image](https://user-images.githubusercontent.com/64845818/178820694-29168715-4be9-4163-9af6-370aeebf0fbd.png)
 
