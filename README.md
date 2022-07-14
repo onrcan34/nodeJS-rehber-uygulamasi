@@ -50,7 +50,7 @@ node app.js help
 ![image](https://user-images.githubusercontent.com/64845818/178819255-294af9b2-132b-486f-ab2a-75670280771e.png)
 ### Rehber projesi ekle komutunu çalıştırmak için
 ```
-node app.js ekle --isim="ahmet" --tel="12512521"
+node app.js ekle --isim="aras" --tel="21412412"
 ```
 ![image](https://user-images.githubusercontent.com/64845818/178820116-44509c69-ffd2-4ace-a8c6-002f57247649.png)
 ### Rehber projesi listele komutunu çalıştırmak için
